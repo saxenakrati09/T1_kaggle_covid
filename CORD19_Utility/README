@@ -1,0 +1,14 @@
+README:
+Instructions to setup:
+
+1. Make /Data folder and unzip CORD-19 data inside the /Data folder. Name of the unzipped folder should be automatically be "CORD-19-research-challenge"
+
+2. Download bert-base-nli-mean-tokens model: You can find all models for download here:
+https://public.ukp.informatik.tu-darmstadt.de/reimers/sentence-transformers/v0.2/
+Unzip in /Data folder
+
+3. Install libraries from requirements.txt as required. (NOTE: All libraries do not work together, there are conflicts with the versions with some libraries)
+
+4. Run files in "/Cleaning" folder to generate and clean the data
+
+5. Run files in "/Analysis" folder to generate results for tasks. Name of the files are self-explanatory.

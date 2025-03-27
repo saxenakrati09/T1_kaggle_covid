@@ -1,0 +1,9 @@
+spacy
+spacy_langdetect
+tqdm
+sentence_transformers
+scipy
+ktrain
+gensim
+sklearn
+seaborn
